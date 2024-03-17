@@ -11,21 +11,21 @@
 
 BankingCorp may be potentially violating GDPR laws through :
 
-**Data Sharing:** They are giving access to customer data to a third-party company without clear consent from the customers.
-**Automated Decision Making:** BankingCorp giving access to their systems to a third-party company to test an algorithm to target customers for marketing purposes without their explicit consent could be considered as automated decision-making, which is regulated under GDPR.
-**Transparency** BankingCorp not informing customers about their partnership with the payday loan company and their use of customer data for marketing purposes could be seen as a lack of transparency - a key principle of GDPR.
-**Purpose Limitation:** Using customer data for a purpose other than what it was originally collected for (e.g. sending marketing emails from the payday loan company) may not align with the principle of purpose limitation under GDPR.
+- **Data Sharing:** They are giving access to customer data to a third-party company without clear consent from the customers.
+- **Automated Decision Making:** BankingCorp giving access to their systems to a third-party company to test an algorithm to target customers for marketing purposes without their explicit consent could be considered as automated decision-making, which is regulated under GDPR.
+- **Transparency** BankingCorp not informing customers about their partnership with the payday loan company and their use of customer data for marketing purposes could be seen as a lack of transparency - a key principle of GDPR.
+- **Purpose Limitation:** Using customer data for a purpose other than what it was originally collected for (e.g. sending marketing emails from the payday loan company) may not align with the principle of purpose limitation under GDPR.
 
 
 **What are the ethical concerns with the company's proposal?**
 
-**Targeting Vulnerable Customers:** Allowing a payday loan company to target customers who are struggling to pay their credit card debts raises ethical questions about taking advantage of vulnerable individuals in financial distress. This could potentially lead to customers taking on high-interest loans that they may not be able to afford, worsening their financial situation.
-**Lack of Transparency:** The decision to not publicly announce the partnership and instead informing customers through changes in terms and conditions (which most never read) shows a lack of transparency. Customers have a right to know how their data is being used and shared, especially when it involves sensitive financial information.
+- **Targeting Vulnerable Customers:** Allowing a payday loan company to target customers who are struggling to pay their credit card debts raises ethical questions about taking advantage of vulnerable individuals in financial distress. This could potentially lead to customers taking on high-interest loans that they may not be able to afford, worsening their financial situation.
+- **Lack of Transparency:** The decision to not publicly announce the partnership and instead informing customers through changes in terms and conditions (which most never read) shows a lack of transparency. Customers have a right to know how their data is being used and shared, especially when it involves sensitive financial information.
 
 
 **What could the company do to address these issues?**
 
-Obtain explicit consent from customers regarding data sharing, be transparent with customers about any data sharing agreements and partnerships e.g. as with this payday loan company, BankingCorp could anonymize customer data before sharing with the payday loan company to protect customer privacy, implement regular audits and monitoring processes to ensure compliance with GDPR regulations and ethical standards, and consider being more transparent about partnerships that involve customer data, especially if they could raise ethical concerns.
+Obtain explicit consent from customers regarding data sharing, be transparent with customers about any data sharing agreements and partnerships e.g. as with this payday loan company, BankingCorp could anonymise customer data before sharing it with the payday loan company to protect customer privacy, implement regular audits and monitoring processes to ensure compliance with GDPR regulations and ethical standards, and consider being more transparent about partnerships that involve customer data, especially if they could raise ethical concerns.
 
 ## Scenario 2
 *The new mobile game Treasure Hunters has been taking the country by storm. Players are shown an illustrated map and must find the hidden treasure by following clues and solving puzzles. The quicker a player finds the treasure the more points they score and they can compare their scores with their friends. Five new maps are added every day and each map can be completed in a few minutes, with the low time commitment making the game a huge hit with casual players. There are many players who would like more puzzles, though.*
@@ -47,7 +47,7 @@ There doesn't appear to be any explicit violations of GDPR law.
 
 **What could the company do to address these issues?**
 
-Emply fair monetisation practises, provide clear and transparent information to their players about the costs associated with purchasing hints using real-world money, maybe offer alternative ways for players to earn hints through gameplay rather than solely relying on purchases, provide options for players to disable or limit in-game purchases to prevent excessive spending (especially for vulnerable groups), and prioritise data privacy and security by implementing measures to protect players' personal information that is collected during in-game transactions.
+Employ fair monetisation practises, provide clear and transparent information to their players about the costs associated with purchasing hints using real-world money, maybe offer alternative ways for players to earn hints through gameplay rather than solely relying on purchases, provide options for players to disable or limit in-game purchases to prevent excessive spending (especially for vulnerable groups), and prioritise data privacy and security by implementing measures to protect players' personal information that is collected during in-game transactions.
 
 ## Scenario 3
 *friends.com is a new match-making service to help people socialise when they move to a new area. Users enter their area and a list of their interests before being shown a list of people with similar interests in the area. There's no guarantee of an exact match in interests and the suggested friend could be on the opposite side of the city. Users can freely view each others' profiles and message each other, but the matching service will speed up the process of making new contacts. The site is free with revenue coming from generic banner ads on the page.*
@@ -57,18 +57,17 @@ Emply fair monetisation practises, provide clear and transparent information to 
 
 **Is the company breaking any laws with their proposal?**
 
-**Data Sharing:** Sharing users' location data with third parties for advertisement purposes could raise issues regarding data sharing and consent requirements under GDPR.
-
+- **Data Sharing:** Sharing users' location data with third parties for advertisement purposes could raise issues regarding data sharing and consent requirements under GDPR.
 
 **What are the ethical concerns with the company's proposal?**
 
-The company's collection and sharing of users' personal data, including location data, for advertising purposes raises privacy concerns. It's possible that users may not be fully aware of how their data is being used and shared, which can lead to a lack of transparency and potential privacy violations.
+- The company's collection and sharing of users' personal data, including location data, for advertising purposes raises privacy concerns. It's possible that users may not be fully aware of how their data is being used and shared, which can lead to a lack of transparency and potential privacy violations.
 
-Providing occasional 'trial periods' of the premium tier followed by targeted adverts to entice users to subscribe can also be seen as manipulative. Users could feel pressured or misled into upgrading to a paid subscription - can raise ethical questions about the company's marketing practices.
+- Providing occasional 'trial periods' of the premium tier followed by targeted adverts to entice users to subscribe can also be seen as manipulative. Users could feel pressured or misled into upgrading to a paid subscription - can raise ethical questions about the company's marketing practices.
 
-Allowing users to freely view each other's profiles and message each other without adequate security measures in place can pose risks to users' personal information.
+- Allowing users to freely view each other's profiles and message each other without adequate security measures in place can pose risks to users' personal information.
 
-Although this platform aims to connect users with similar interests in a specific area, there really is no guarantee of an exact match. Users may form expectations based on the suggested matches, only to find that the connections are not as expected.
+- Although this platform aims to connect users with similar interests in a specific area, there really is no guarantee of an exact match. Users may form expectations based on the suggested matches, only to find that the connections are not as expected.
 
 **What could the company do to address these issues?**
 
